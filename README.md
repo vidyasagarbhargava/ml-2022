@@ -1,2 +1,2 @@
 # ml-2022
-This Course is designed by me.
+This machine learning course is designed by Vidyasagar Bhargava.
