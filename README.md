@@ -11,7 +11,7 @@ Week 2 - Maths for Machine Learning
 Week 3 - Statistics for Machine Learning  
 
 ----
-**Linear Models and ML concepts**
+**Linear Models and ML concepts**  
 Week 4 - Data Treatment (Missing Values, Outliers, Categorical Features)  
 Week 5 - Linear Regression   
 Week 6 - Logistic Regression   
