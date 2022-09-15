@@ -11,33 +11,50 @@ Week 2 - Maths for Machine Learning
 Week 3 - Statistics for Machine Learning  
 
 ----
-**Tree based Algorithms**    
-Week 4 - Decision Tree  
-Week 5 - Random Forest  
-Week 6 - Boosting Algorithms-I  
-Week 7 - Boosting Algorithms-II  
+**Linear Models and ML concepts**
+Week 4 - Data Treatment (Missing Values, Outliers, Categorical Features)
+Week 5 - Linear Regression  
+Week 6 - Logistic Regression 
+Week 7 - Advanced Regression Techniques
+Week 8 - Feature Engineering + Feature Scaling + Feature Selection
+Week 9 - Hyperparameter tuning and Cross Validation techniques
+Week 10 - Regularization Techniques [Lasso, Ridge & Elastic Net]
+Week 11 - Kaggle Competitions-1 [Titanic & House Pricing Challenge]
 
-----
-**Linear algorithms**    
-Week 8 - Linear Regression   
-Week 9 - Logistic Regression    
-
------
 **Unsupervised Algorithms**    
-Week 10 - Clustering Algorithms-I  
-Week 11 - Clustering Algorithms-II  
-Week 12 - SVD and PCA   
-
------
-**Other Machine Learning Algorithms**     
-Week 13 - KNN  
-Week 14 - SVM  
-Week 15 - Naive Bayes  
-Week 16 - Neural Networks  
+Week 12 - Clustering Algorithms        
+Week 13 - SVD and PCA  
 
 ----
-**Competitive Data Science**  
-Week 17 - Competitive Data Science  
-Week 18 - Competitive Data Science   
-Week 19 - Competitive Data Science  
-Week 20 - Competitive Data Science  
+**Tree based Advanced Algorithms**    
+Week 14 - Decision Tree  
+Week 15 - Random Forest  
+Week 16 - Model Explainability
+Week 17 - Boosting Algorithms-I  
+Week 18 - Boosting Algorithms-II  
+Week 19 - Kaggle Competition-2 [Amex & Instacart Challlenge]
+
+----
+**Deep Learning & NLP**     
+Week 20 - Deep Learning & CNN Basics
+Week 21 - Optimization Techniques [Adam, RMSPROP SGD etc]
+Week 22 - Working with Text Data  
+Week 23 - Sequence Models
+Week 24 - Transformers & Bert Models
+Week 25 - Kaggle Competition-3 [Fashion MNIST & Quora]
+
+----
+**Machine Learning System Design**
+TBA
+
+----
+**Some other topics**
+Imbalanced dataset
+Loss functions and types
+Bias Variance Trade off
+Data Augmentation
+Batch Normalization
+Initialization of Weights
+Distribution  Shift
+Data leakage
+Distributed Model Training
