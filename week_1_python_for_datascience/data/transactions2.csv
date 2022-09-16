@@ -1,0 +1,4 @@
+﻿transaction_id,customer_id,product,price
+200,3,bat,250
+201,3,shirt,120
+202,4,gloves,20

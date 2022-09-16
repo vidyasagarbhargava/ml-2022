@@ -1,0 +1,4 @@
+﻿transaction_id,customer_id,product,price
+300,4,shoes,300
+301,5,ball,50
+302,5,pads,100
